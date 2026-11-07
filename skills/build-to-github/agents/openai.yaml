@@ -1,0 +1,4 @@
+interface:
+  display_name: "从需求到 GitHub"
+  short_description: "把产品需求落成可运行应用，复用现有能力并完成验收、打包与 GitHub 交付。"
+  default_prompt: "使用 $build-to-github，先检查已有能力，把我的需求整理成可验收的产品并搭建、测试和发布到指定 GitHub 仓库。"
